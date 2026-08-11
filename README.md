@@ -6,12 +6,6 @@ This project provides a **visual password strength dashboard** with a speedomete
 
 ---
 
-## 🚀 Live Demo
-
-👉 https://cyber-password-strength-analyzer.streamlit.app
-
----
-
 ## ✨ Features
 
 * 🔎 Character diversity analysis
